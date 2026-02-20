@@ -1,1 +1,47 @@
-a
+Vacuum vs Radioactive Clouds 🌪️☢️
+
+What is this game about?
+
+Welcome to a world where ecology is under threat! Radioactive clouds have spread across the territory, and only you can clear the sky.
+As a brave cleaner, you control a special vacuum that collects dangerous clouds and turns them into valuable resources.
+
+Concept
+
+You play as a hero running through the game world with a powerful vacuum cleaner. Your goal is to collect all radioactive clouds that appear in random locations.
+The more clouds you collect, the more points you earn. With the points you accumulate, you can upgrade your vacuum, making it faster, stronger, and more efficient.
+
+Game Mechanics
+
+- Cloud Collection — run around the map and suck up radioactive clouds with your vacuum
+- Resource Accumulation — earn points for every cloud you collect
+- Upgrades — in the future, you'll be able to purchase vacuum upgrades (suction speed, range, power)
+
+Controls
+
+- WASD or arrow keys — character movement
+- Left mouse button — interaction (cloud collection)
+- ESC — return to menu
+
+Game Goal
+
+Clear the world from radiation, collect as many clouds as possible, and become the best cleaner in the galaxy! 🌟
+
+Screenshots
+
+Screenshots of the gameplay will appear here soon
+
+Future Plans
+
+- 🚀 Different types of vacuums
+- 💪 Character upgrades
+- 🌍 New levels and locations
+- 👾 Enemies and obstacles
+- 🏆 Leaderboard
+
+How to Run
+
+1. Install Python 3.7 or higher
+2. Install the Arcade library: `pip install arcade`
+3. Download the game and run the `main.py` file
+
+Enjoy the game! 🎮
